@@ -3,3 +3,4 @@ tensorflow>=1.13
 keras-applications>=1.0.7,<=1.0.8  
 image-classifiers==1.0.*  
 efficientnet==1.0.*
+albumentations==0.3.0
